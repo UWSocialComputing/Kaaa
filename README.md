@@ -3,5 +3,5 @@
 [G3 - Low Fidelity Prototype](./G3.md)\
 [G4 - Code and Design Specification](./G4.md)\
 [G5 - Midterm Presentation](https://docs.google.com/presentation/d/1oEzm3hIZ9OxxjXSdxX6G27oXhDl-FH2JL5jt7pDneFY/edit?usp=sharing)
-[G5 - Midterm Presentation](https://docs.google.com/presentation/d/1oEzm3hIZ9OxxjXSdxX6G27oXhDl-FH2JL5jt7pDneFY/edit?usp=sharing)
+[G5 - Midterm Presentation](https://docs.google.com/presentation/d/1oEzm3hIZ9OxxjXSdxX6G27oXhDl-FH2JL5jt7pDneFY/edit?usp=sharing)\
 [G6 - User Testing](./G6.md)
