@@ -1,6 +1,8 @@
 <a href="https://kaaa-plum.vercel.app"><img src="./images/logo.png"/>
 </a>
 
+Watch a quick demo:
+
 [![alt text](https://img.youtube.com/vi/ZglEUdvyu3U/0.jpg)](https://www.youtube.com/watch?v=ZglEUdvyu3U)
 
 [G1 - User Research](./G1.md)\
