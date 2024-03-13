@@ -1,11 +1,7 @@
-<a href="https://kaaa-plum.vercel.app">
-  <p align="center"><img src="./images/logo.png"/></p>
+<a href="https://kaaa-plum.vercel.app"><img src="./images/logo.png"/>
 </a>
 
-<p align="center">Watch a quick Demo:</p>
-<a href="https://www.youtube.com/watch?v=ZglEUdvyu3U" target="_blank">
- <p align="center"> <img src="./images/video_tag.png" alt="Watch the video" width="480" height="360"/></p>
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZglEUdvyu3U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [G1 - User Research](./G1.md)\
 [G2 - Pitch Presentation](https://docs.google.com/presentation/d/1r8Y46khKjAFP8ZgOVZN3TSIaghxb2zyXZygGF7Y0qCE/edit?usp=sharing)\
