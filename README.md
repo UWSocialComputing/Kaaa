@@ -22,6 +22,7 @@ With all of this in mind, we set a goal of helping friend groups remain in touch
 [G5 - Midterm Presentation](https://docs.google.com/presentation/d/1oEzm3hIZ9OxxjXSdxX6G27oXhDl-FH2JL5jt7pDneFY/edit?usp=sharing)\
 [G6 - User Testing](./G6.md)\
 [G7 - Final Blog](./G7.md)
+[G8 - Final Demo](https://youtu.be/ZglEUdvyu3U)
 
 
 # The Team
