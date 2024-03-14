@@ -9,10 +9,12 @@ We did some research and what we noticed is that oftentimes people fail to stay 
 
 With all of this in mind, we set a goal of helping friend groups remain in touch with each other by helping spark meaningful conversation and connection. We have developed Kaaa, an app where friend groups periodically get thoughtful drawing prompts to help groups feel more connected and spark meaningful conversation amongst each other.
 
-
 # Watch a quick demo:
 
 [![alt text](https://img.youtube.com/vi/ZglEUdvyu3U/0.jpg)](https://www.youtube.com/watch?v=ZglEUdvyu3U)
+
+# Try the app here:
+[Kaaa App](https://kaaa-plum.vercel.app/login)
 
 # Blog Posts
 [G1 - User Research](./G1.md)\
@@ -21,7 +23,7 @@ With all of this in mind, we set a goal of helping friend groups remain in touch
 [G4 - Code and Design Specification](./G4.md)\
 [G5 - Midterm Presentation](https://docs.google.com/presentation/d/1oEzm3hIZ9OxxjXSdxX6G27oXhDl-FH2JL5jt7pDneFY/edit?usp=sharing)\
 [G6 - User Testing](./G6.md)\
-[G7 - Final Blog](./G7.md)
+[G7 - Final Blog](./G7.md)\
 [G8 - Final Demo](https://youtu.be/ZglEUdvyu3U)
 
 
